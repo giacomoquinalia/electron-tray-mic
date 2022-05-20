@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "execa": "^6.1.0"
+    "execa": "^6.1.0",
+    "loudness": "^0.4.1"
   },
   "config": {
     "forge": {
